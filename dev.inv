@@ -1,2 +1,2 @@
 [all]
-ansadmin@172.31.22.252
+172.31.22.252 ansible_user=ansadmin
